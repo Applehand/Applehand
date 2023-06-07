@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Applehand
-- 👀 I’m interested in SEO, full stack web development, game development, data science and visualization, automation, machine learning, natural language processing, and such as.
-- 🌱 I’m currently learning everything everywhere all the time at once.
+- 👀 I’m interested in SEO, full stack web development, game development, data science and visualization, automation, and everything else.
+- I'll get around to finishing these projects..
 
 
 <!---
